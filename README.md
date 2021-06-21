@@ -23,9 +23,25 @@
 
 <img align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="Coder GIF" height="270">
 
-[linkedin]
+<a href="https://www.linkedin.com/in/devMatheusR/">
+  <img align="left" alt="Matheus Linkedin" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 <br/>
-[email]
 
+[Email](mailto:devmatheusr@gmail.com)
 <br/>
 
+### ⚙ Languages and Tools  I use :
+
+<img align="left" alt="HTML5" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/html-5.svg" />
+<img align="left" alt="CSS3" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/css.svg" />
+<img align="left" alt="React" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/react.svg" />
+<br />
+<br />
+<img align="left" alt="Node.js" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/node-js.png" />
+<br />
+
+---  
+
+## 💳 Language Card
+<img align="center" alt="Mridul's Github Stats" src="https://github-readme-stats.mridul28.vercel.app/api/top-langs/?username=devmatheusr&&layout=compact" />
