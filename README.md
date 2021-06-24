@@ -31,7 +31,7 @@
 [Email](mailto:devmatheusr@gmail.com)
 <br/>
 
-### ⚙ Languages and Tools  I use :
+### ⚙ Languages and Tools that I use :
 
 <img align="left" alt="HTML5" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/html-5.svg" />
 <img align="left" alt="CSS3" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/css.svg" />
