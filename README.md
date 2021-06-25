@@ -24,22 +24,30 @@
 <img align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="Coder GIF" height="270">
 
 <a href="https://www.linkedin.com/in/devMatheusR/">
-  <img align="left" alt="Matheus Linkedin" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Matheus Linkedin" width="48px" src="https://image.flaticon.com/icons/png/512/3488/3488311.png" />
 </a>
 <br/>
-
-[Email](mailto:devmatheusr@gmail.com)
+<a href="mailto:devmatheusr@gmail.com">
+  <img align="left" alt="Email" width="48px" src="https://image.flaticon.com/icons/png/512/3296/3296464.png" />
+</a>
+<br/>
+<br/>
 <br/>
 
 ### ⚙ Languages and Tools that I use :
 
-<img align="left" alt="HTML5" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/html-5.svg" />
-<img align="left" alt="CSS3" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/css.svg" />
-<img align="left" alt="React" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/react.svg" />
-<br />
-<br />
-<img align="left" alt="Node.js" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/node-js.png" />
-<br />
+<img align="left" alt="HTML5" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/html-5.svg"/>
+<img align="left" alt="CSS3" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/css.svg"/>
+<img align="left" alt="Java" width="33px" src="https://cdn.iconscout.com/icon/free/png-512/java-2038875-1720088.png"/>
+<img align="left" alt="Netbeans" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png"/>
+<br/>
+<br/>
+<img align="left" alt="Node.js" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/node-js.png"/>
+<img align="left" alt="JS" width="33px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2038874-1720087.png"/>
+<img align="left" alt="VScode" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png"/>
+<img align="left" alt="Git" width="33px" src="https://cdn.iconscout.com/icon/free/png-512/git-18-1175219.png"/>
+
+<br/>
 
 ---  
 
