@@ -22,7 +22,7 @@
 ---
 ### 🔁 Connect with me:
 
-<img align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="Coder GIF" height="270">
+<img align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="Coder GIF" width="270" height="275">
 
 <a href="https://www.linkedin.com/in/devMatheusR/">
   <img align="left" alt="Matheus Linkedin" width="48px" src="https://image.flaticon.com/icons/png/512/3488/3488311.png" />
