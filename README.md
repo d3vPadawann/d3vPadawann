@@ -37,7 +37,7 @@
 
 ### ⚙ Languages and Tools that I use :
 
-
+<div id="conteiner" style="align-items: inline">
 <img align="left" alt="HTML5" width="40px" src="https://mridul2820.github.io/github-assets/assets/tech/html-5.svg" />
 <img align="left" alt="CSS3" width="40px" src="https://mridul2820.github.io/github-assets/assets/tech/css.svg" />
 <img align="left" alt="Java" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/java-2038875-1720088.png" />
@@ -46,6 +46,7 @@
 <img align="left" alt="JS" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2038874-1720087.png" />
 <img align="left" alt="VScode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" />
 <img align="left" alt="Git" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/git-18-1175219.png" />
+<div/>
 <br/>
 <br/>
 
