@@ -52,6 +52,7 @@
 ---  
 
 ## 💳 Language Card
+<img align="right" src="https://media1.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=ecf05e47upf8twtkhghe2kycg7vxjue4aw6xeefbnk0zbnru&rid=giphy.gif&ct=g" alt="Coder GIF" height="290">
 <img align="center" alt="Mridul's Github Stats" src="https://github-readme-stats.mridul28.vercel.app/api/top-langs/?username=devmatheusr&&layout=compact" />
 <br/>
 <br/>
