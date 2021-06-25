@@ -42,9 +42,6 @@
 <img align="left" alt="CSS3" width="40px" src="https://mridul2820.github.io/github-assets/assets/tech/css.svg" />
 <img align="left" alt="Java" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/java-2038875-1720088.png" />
 <img align="left" alt="Netbeans" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png" />
-<br/>
-<br/>
-<br/>
 <img align="left" alt="Node.js" width="40px" src="https://mridul2820.github.io/github-assets/assets/tech/node-js.png" />
 <img align="left" alt="JS" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2038874-1720087.png" />
 <img align="left" alt="VScode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" />
