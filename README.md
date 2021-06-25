@@ -53,3 +53,6 @@
 
 ## 💳 Language Card
 <img align="center" alt="Mridul's Github Stats" src="https://github-readme-stats.mridul28.vercel.app/api/top-langs/?username=devmatheusr&&layout=compact" />
+<br/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=devMatheusR&show_icons=true" alt="devMatheusR"/> 
