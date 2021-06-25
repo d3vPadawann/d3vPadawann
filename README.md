@@ -48,8 +48,6 @@
 <img align="left" alt="Git" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/git-18-1175219.png" />
 <br/>
 <br/>
-<br/>
-<br/>
 
 ---  
 
