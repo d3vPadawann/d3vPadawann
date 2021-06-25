@@ -17,6 +17,7 @@
 🔸 Fun fact: My gaming nick is PadawaNN because i love soooo much Star Wars <img align="center" src="https://github.com/Elaniobro/slack-emojis/blob/master/starwars/yoda.png" alt="Coder GIF" height="15">
 <br/>
 <br/>
+<br/>
 
 ---
 ### 🔁 Connect with me:
@@ -31,21 +32,22 @@
 </a>
 <br/>
 <br/>
+<br/>
 
 
 ### ⚙ Languages and Tools that I use :
-<br/>
 
-<img align="left" alt="HTML5" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/html-5.svg" />
-<img align="left" alt="CSS3" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/css.svg" />
-<img align="left" alt="Java" width="33px" src="https://cdn.iconscout.com/icon/free/png-512/java-2038875-1720088.png" />
-<img align="left" alt="Netbeans" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png" />
+
+<img align="left" alt="HTML5" width="40px" src="https://mridul2820.github.io/github-assets/assets/tech/html-5.svg" />
+<img align="left" alt="CSS3" width="40px" src="https://mridul2820.github.io/github-assets/assets/tech/css.svg" />
+<img align="left" alt="Java" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/java-2038875-1720088.png" />
+<img align="left" alt="Netbeans" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png" />
+<img align="left" alt="Node.js" width="40px" src="https://mridul2820.github.io/github-assets/assets/tech/node-js.png" />
+<img align="left" alt="JS" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2038874-1720087.png" />
+<img align="left" alt="VScode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" />
+<img align="left" alt="Git" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/git-18-1175219.png" />
 <br/>
 <br/>
-<img align="left" alt="Node.js" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/node-js.png" />
-<img align="left" alt="JS" width="33px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2038874-1720087.png" />
-<img align="left" alt="VScode" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" />
-<img align="left" alt="Git" width="33px" src="https://cdn.iconscout.com/icon/free/png-512/git-18-1175219.png" />
 <br/>
 <br/>
 
