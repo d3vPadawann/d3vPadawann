@@ -11,6 +11,9 @@
 🔸 I love to play some games, principally FPS and Puzzle games 🎮
 <br/>
 
+🔸 I’m open to job opportunities 🚀
+<br/>
+
 🔸 2021 Goals: Create my first web application with JAVA and finish my SD course 📚
 <br/>
 
