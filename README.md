@@ -14,7 +14,7 @@
 🔸 I’m open to job opportunities 🚀
 <br/>
 
-🔸 2021 Goals: Create my first web application with JAVA and finish my SD course 📚
+🔸 2022 Goals: Create a big web app with Spring and React and finish my SD course 📚
 <br/>
 
 🔸 Fun fact: My gaming nick is PadawaNN because i love soooo much Star Wars <img align="center" src="https://github.com/Elaniobro/slack-emojis/blob/master/starwars/yoda.png" alt="Coder GIF" height="15">
