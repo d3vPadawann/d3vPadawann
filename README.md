@@ -11,10 +11,11 @@
 🔸 I love to play some games, principally FPS and Puzzle games 🎮
 <br/>
 
-🔸 I’m open to job opportunities 🚀
+🔸 Intern at IPQ Tecnologia Ltda. 🚀
 <br/>
 
 🔸 2022 Goals: Create a big web app with Spring and React and finish my SD course 📚
+               Finish my second semester of college of Software Engineering 📚
 <br/>
 
 🔸 Fun fact: My gaming nick is PadawaNN because i love soooo much Star Wars <img align="center" src="https://github.com/Elaniobro/slack-emojis/blob/master/starwars/yoda.png" alt="Coder GIF" height="15">
