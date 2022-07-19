@@ -5,7 +5,7 @@
 ### My name is Matheus, i'm a systems development student 🤓🖥️
 ##
 
-🔸 Currently learning [Java](java.com)☕
+🔸 Currently learning [Everything]☕
 <br/>
 
 🔸 I love to play some games, principally FPS and Puzzle games 🎮
