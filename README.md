@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="Coder GIF" height="270">
 
-### My name is Matheus, i'm a systems development student 🤓🖥️
+### My name is Matheus, i'm a systems developer 🤓🖥️
 ##
 
 🔸 Currently learning [Everything](https://www.google.com/search?client=opera&q=all+programming+languages&sourceid=opera&ie=UTF-8&oe=UTF-8)☕
