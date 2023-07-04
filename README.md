@@ -11,7 +11,7 @@
 🔸 I love to play some games, principally FPS and Puzzle games 🎮
 <br/>
 
-🔸 Intern at IPQ Tecnologia Ltda. 🚀
+🔸 Developer at IPQ Tecnologia Ltda. 🚀
 <br/>
 
 🔸 2022 Goals: Create a big web app with Spring and React and finish my SD course 📚
